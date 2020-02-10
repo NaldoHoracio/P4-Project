@@ -22,4 +22,3 @@
 
 ### REFS
 
-1. [Gerando PDF a partir de HTML] (https://medium.com/code-rocket-blog/gerando-pdf-a-partir-de-html-no-admin-do-django-6f7c3528f5b3)
