@@ -2,10 +2,10 @@ from django.contrib import admin
 
 from .models import Report
 
-from django.contrib import admin
 from django.core.files.storage import FileSystemStorage
 from django.http import HttpResponse
 from django.template.loader import render_to_string
+from django_object_actions import DjangoObjectActions
 
 from .models import Report
 
